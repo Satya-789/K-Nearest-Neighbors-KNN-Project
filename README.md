@@ -29,10 +29,6 @@ The objective is to evaluate and improve model performance using preprocessing t
 
 ## 📈 Exploratory Data Analysis (EDA)
 
-### 🔹 Feature Distribution
-
-![Feature Distribution](images/feature_distribution.png)
-
 ---
 
 ### 🔹 Pairplot (TARGET CLASS)
@@ -40,17 +36,6 @@ The objective is to evaluate and improve model performance using preprocessing t
 ![Pairplot](images/pairplot.png)
 
 ---
-
-### 🔹 Correlation Heatmap
-
-![Heatmap](images/heatmap.png)
-
----
-
-### 🔹 Boxplots (Outlier Detection)
-
-![Boxplot](images/boxplot.png)
-
 ---
 
 ## ⚙️ Model Development
