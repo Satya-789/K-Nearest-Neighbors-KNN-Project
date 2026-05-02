@@ -119,10 +119,6 @@ accuracy                           0.83       300
 
 ---
 
-## 📊 ROC Curve
-
-![ROC Curve](images/roc_curve.png)
-
 ---
 
 ## 🔚 Conclusion
